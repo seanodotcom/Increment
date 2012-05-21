@@ -1,8 +1,0 @@
-jQuery Increment Plugin
-=======================
-
-To install, simply add plugin anywhere after jQuery:
-e.g. <code><script src="/js/jquery.increment.js"></script></code>
-
-Then attach it to the desired INPUT selector(s):
-<code>$('input.qty').increment();</code>
